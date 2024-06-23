@@ -6,7 +6,7 @@
 </p>
 
 ### Introduction
-This is a PyTorch(1.8.0) implementation of Trans-DCN. Itcan use Modified backbone as [train.py](https://github.com/hzh1231/Trans_dcn/blob/master/train.py) mentioned. Currently, we can train Trans-DCN using Pascal VOC 2012, SBD and Cityscapes datasets.
+This is a PyTorch(1.8.0) implementation of Trans-DCN. It can use Modified backbone as [train.py](https://github.com/hzh1231/Trans_dcn/blob/master/train.py) mentioned. Currently, we can train Trans-DCN using Pascal VOC 2012, SBD and Cityscapes datasets.
 
 ### Installation
 The code was tested with Anaconda and Python 3.8. After installing the Anaconda environment:
@@ -36,7 +36,7 @@ Follow steps below to train your model:
 python train.py
  ```
 
-### testing
+### Testing
 Follow steps below to test your model:
 
 0. Configure your test data (images) path in [predict.py](https://github.com/hzh1231/Trans_dcn/blob/master/predict.py).
