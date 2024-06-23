@@ -6,4 +6,4 @@
 </p>
 
 ### Introduction
-This is a PyTorch(1.8.0) implementation of Trans-DCN. Itcan use Modified backbone is [train.py](https://github.com/jfzhang95/pytorch-deeplab-xception/blob/master/mypath.py) mentioned. Currently, we train Trans-DCN using Pascal VOC 2012, SBD and Cityscapes datasets.
+This is a PyTorch(1.8.0) implementation of Trans-DCN. Itcan use Modified backbone as [train.py](https://github.com/hzh1231/Trans_dcn/master/mypath.py) mentioned. Currently, we can train Trans-DCN using Pascal VOC 2012, SBD and Cityscapes datasets.
